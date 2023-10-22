@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Git Eğitiminde olulturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![Kodluyoruz ilk repo - Markdown](https://raw.githubusercontent.com/KrepOrange/kodluyoruzilkrepo/main/kodluyoruzilkrepo-Markdown.jpg)
+
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
